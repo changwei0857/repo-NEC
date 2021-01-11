@@ -1,2 +1,2 @@
-printf('hello python & git rock')
+printf('hello python & rock')
 
